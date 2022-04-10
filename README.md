@@ -11,6 +11,21 @@ greater the number of recovered individuals.
 
 Besides Python, I also use maple software to determine the endemic equilibrium point and simplify some equations in determining the stability of the disease equilibrium point.
 
+#### Basic reproduction number obtained
+![image](https://user-images.githubusercontent.com/99526319/162615962-37b9f03d-e68f-44ae-b749-e0f73a552e00.png)
+
+with
+
+![image](https://user-images.githubusercontent.com/99526319/162615968-d13ec06d-1343-4c47-8c34-afefc90aad4d.png)
+
+Note that the value of 0 obtained will not be a complex number, because it has been analyzed that
+
+![image](https://user-images.githubusercontent.com/99526319/162615994-e55d98de-70b6-4c5c-8788-fa70f63b73a9.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### The Results
+
 Here is some plot results about my thesis project.
 
 #### Numerical solutions - 1
@@ -31,5 +46,7 @@ Note that the odeint result from the SciPy library is also used to compare with 
 ![IS](https://user-images.githubusercontent.com/99526319/162615638-ceb2e18a-2d98-44e3-8d63-11cd9ae5c829.png)
 
 We can also see the effect of decreased immunity and vaccination to others group by change the code program to each group. You can see full my thesis code in the folder 'Thesis'
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Don't forget to provide the source (me) if you use this project!
