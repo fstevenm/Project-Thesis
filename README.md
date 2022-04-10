@@ -26,7 +26,7 @@ Note that the value of 0 obtained will not be a complex number, because it has b
 
 ### The Results
 
-Here is some plot results about my thesis project.
+Here is some plot results about my thesis project. Note that parameter values used are sourced from the main reference journal and some assumptions.
 
 #### Numerical solutions - 1
 ![Semua](https://user-images.githubusercontent.com/99526319/162615409-c90f2fe9-df81-4ba3-b256-695978380356.png)
