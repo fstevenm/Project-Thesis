@@ -21,13 +21,13 @@ Here is some plot results about my thesis project.
 
 Note that the odeint result from the SciPy library is also used to compare with the numerical solution of the fourth-order Runge-Kutta method.
 
-#### Effect of decreased immunity to Infected Symptomatics Group
+#### Effect of decreased immunity (xi parameter) to Infected Symptomatics Group 
 ![Xi_IS](https://user-images.githubusercontent.com/99526319/162615602-540c1543-b55c-4da3-8e7c-2fc45a9326e8.png)
 
 #### Numerical solutions - 2
 ![Penyelesaian Numeris](https://user-images.githubusercontent.com/99526319/162615613-f08329aa-6360-4246-9c24-4e595b3a57fd.png)
 
-#### Effect of vaccination to Infected Symptomatics Group
+#### Effect of vaccination (sigma parameter) to Infected Symptomatics Group
 ![IS](https://user-images.githubusercontent.com/99526319/162615638-ceb2e18a-2d98-44e3-8d63-11cd9ae5c829.png)
 
 We can also see the effect of decreased immunity and vaccination to others group by change the code program to each group. You can see full my thesis code in the folder 'Thesis'
